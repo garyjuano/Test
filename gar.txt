@@ -1,1 +1,8 @@
 # Test dupe 2 LOCAL
+1
+2
+3
+4
+5
+6
+7
