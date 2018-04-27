@@ -13,6 +13,16 @@
 12
 13
 141111111
+define ('SSH2_STREAM_STDERR', 1);
+define ('SSH2_POLLIN', 1);
+define ('SSH2_POLLEXT', 2);
+define ('SSH2_POLLOUT', 4);
+define ('SSH2_POLLERR', 8);
+define ('SSH2_POLLHUP', 16);
+define ('SSH2_POLLNVAL', 32);
+define ('SSH2_POLL_SESSION_CLOSED', 16);
+define ('SSH2_POLL_CHANNEL_CLOSED', 128);
+define ('SSH2_POLL_LISTENER_CLOSED', 128);
 1
 2
 3
